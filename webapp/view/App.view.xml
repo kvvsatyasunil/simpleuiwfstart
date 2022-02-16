@@ -1,0 +1,21 @@
+<mvc:View
+    controllerName="com.ts.simpleui.controller.App"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m"
+    xmlns:f="sap.ui.layout.form"
+>
+    <!-- <Shell id="shell"> -->
+        <App id="app">
+            <pages>
+                <Page id="page" title="{i18n>title}">
+                    <content>
+                    	<VBox class="sapUiSmallMargin">
+		
+	</VBox>
+                    </content>
+                </Page>
+            </pages>
+        </App>
+    <!-- </Shell> -->
+</mvc:View>
